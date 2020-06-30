@@ -18,7 +18,7 @@ h1
   text-decoration:underline;
 }
 .divi{
-  background-color: pink;
+  background-color:pink;
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 80px;
