@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+li
+{
+   color:black;
+}
+body
+{
+  background-color:lightpink;
+}
+</style>
+</head>
+<body>
+<ul>
+<li><strong>Graduate:</strong>Doctorate, First Professional Degree, Master </li>        
+<li><strong>Post Degree Certificate:</strong> Post baccalaureate Certificate </li>                                     
+<li><strong>Undergraduate:</strong>Associate, Bachelor </li>
+<li>Architecture</li>		
+<li>Biological and Biomedical Sciences</li>			
+<li>Business</li>
+<li>Communications and Journalism</li>
+<li>Computer Sciences</li>
+<li>Education</li>
+<li>Engineering</li>
+<li>Legal</li>
+<li>Liberal Arts and Humanities</li>	
+<li>Medical and Health Professions</li>		
+<li>Physical Sciences</li>
+<li>Psychology</li>	
+<li>Visual and Performing Arts</li>	
+</ul> 		
+</body>
+</html>	
+

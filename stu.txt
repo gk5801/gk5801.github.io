@@ -1,0 +1,84 @@
+<html>
+<head>
+<style>
+form 
+{
+  border: 3px solid #f1f1f1;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.b
+{
+background-color:lightgreen;
+height: 50px;
+width: 1200px;
+text-align:center;
+}
+button 
+{
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+a
+{
+   color : white;
+   font-size:35px;
+   font-weight : bold;
+}
+button:hover 
+{
+  opacity: 0.8;
+}
+.imgcontainer 
+{
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar
+{
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container
+{
+  padding: 16px;
+}
+</style>
+</head>
+<body>
+<form action="action_page.php" method="post">
+  <div class="imgcontainer">
+    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>ID</b></label>
+    <input type="text" placeholder="Enter ID" name="uname" required>
+
+    <label for="psw"><b>PASSWORD</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required> 
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+   <br><br>
+   <div class="b">
+     <a href="student.html" required>Login</a>
+    </div>   
+</div>
+</form>
+</body>
+</html>

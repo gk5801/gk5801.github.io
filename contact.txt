@@ -1,0 +1,13 @@
+<html>
+<head>
+</head>
+<body style="background-color:lightyellow; text-align:center;">
+<h1 style="text-align:center; text-decoration:underline;font-weight:bold; color:blue;">NATIONAL UNIVERSITY OF SCHOOLING</h1>
+<p>Contact Us at : (+1 407)564738, (+1 407)675846, (+1 407)765843 <br><br><br>
+   You can also reach us at:<br><br>nationaluniversityofschooling312@gmail.com<br><br>
+                                   youthNUS@rediff.com<br><br>
+                                  nationalunisNUS@yahoo.com <br><br>
+                                   NUShelp@outlook.com<br><br><br></p>
+<p>Address : 10th,Wandersons,Florida</p>
+</body>
+</html>

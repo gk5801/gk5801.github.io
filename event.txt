@@ -1,0 +1,168 @@
+<html>
+<head>
+<style>
+body
+{
+   background-color:lightpink;
+}
+div
+{
+   background-color:maroon;
+}
+h3
+{
+ text-decoration:underline;
+ font-family:"Comic Sans MS";
+ color:yellow;
+}
+li
+{
+ color:yellow;
+}
+</style>
+</head>
+<body>
+	<div class="row col-md-12 bottom-margin-20">
+	<div class="col-sm-6 g-mb-40">
+	<div class="card g-brd-blue rounded-0">
+          <h3>Cultural Events</h3>
+	<ul>
+<li>Dance</li>
+<li>Dubsmash</li>
+<li>DJ</li>
+<li>Drama</li>
+<li>Fashion Show</li>
+<li>Music</li>
+<li>Singing</li>
+<li>Painting</li>
+<li>Rock Band</li>
+<li>Designing</li>
+<li>Mime</li>
+
+    </ul>                       
+        </div>
+    </div>
+</div>						
+
+<div class="col-sm-6  g-mb-40">
+	<div class="card card-outline-danger rounded-0">
+          <h3 class="card-header h5 text-white bg-danger g-brd-transparent rounded-0"><i class="fa fa-tasks g-font-size-default g-mr-5"></i>Technical Events</h3>
+  
+        <div class="card-block">
+	   <ul class="list-unstyled g-mb-30 g-mb-0--md">
+
+<li>Coding</li>
+<li>Debugging</li>
+<li>Paper Presentation</li>
+<li>Poster Presentation</li>
+<li>Programming</li>
+<li>Quiz</li>
+<li>Robotics</li>
+<li>Workshops</li>
+<li>Contraption</li>
+<li>CAD Designing</li>
+<li>Exhibitions</li>
+										
+             </ul>                       
+        </div>
+    </div>
+</div>	
+						
+<div class="col-sm-6 g-mb-40">
+	<div class="card card-outline-info rounded-0">
+          <h3 class="card-header h5 text-white bg-info g-brd-transparent rounded-0"><i class="fa fa-tasks g-font-size-default g-mr-5"></i>Management Events</h3>
+  
+        <div class="card-block">
+	<ul class="list-unstyled g-mb-30 g-mb-0--md">            
+
+<li>AdZap</li>
+<li>Best Manager</li>
+<li>Business Plan</li>
+<li>Finance</li>
+<li>Flagship</li>
+<li>Marketing</li>
+<li>Product Launch</li>
+<li>Quiz</li>
+<li>Simulation Games</li>
+<li>Case Study</li>
+<li>Strategy</li>
+									
+             </ul>                       
+        </div>
+    </div>
+</div>	
+
+
+<div class="col-sm-6  g-mb-40">
+	<div class="card g-brd-teal rounded-0">
+          <h3 class="card-header h5 text-white g-bg-teal g-brd-transparent rounded-0"><i class="fa fa-tasks g-font-size-default g-mr-5"></i>Sports Events</h3>
+  
+        <div class="card-block">
+	<ul class="list-unstyled g-mb-30 g-mb-0--md">	
+
+<li>Athletics</li>
+<li>Badminton</li>
+<li>Basketball</li>
+<li>Carrom</li>
+<li>Cricket</li>
+<li>Chess</li>
+<li>Football</li>
+<li>Hockey</li>
+<li>Squash</li>
+<li>Swimming</li>
+<li>Table Tennis</li>
+<li>Tennis</li>
+<li>Throwball</li>
+<li>Volleyball</li>
+<li>Handball</li>
+<li>Kabaddi</li>
+<li>Khokho</li>
+<li>Futsal</li>
+<li>Wrestling</li>
+                                          
+	     </ul>              
+        </div>
+    </div>
+</div>		
+
+<div class="col-sm-6  g-mb-40">
+	<div class="card card-outline-danger rounded-0">
+          <h3 class="card-header h5 text-white bg-danger g-brd-transparent rounded-0"><i class="fa fa-tasks g-font-size-default g-mr-5"></i>Fun Events</h3>
+  
+        <div class="card-block">
+	   <ul class="list-unstyled g-mb-30 g-mb-0--md">		
+
+<li>Selfie</li>
+<li>Dumb Charades</li>
+<li>LAN Gaming</li>
+<li>Graffiti</li>
+<li>Paintball</li>
+<li>Photography</li>
+<li>T Shirt Design</li>
+<li>Short Film</li>
+<li>Sketching</li>
+<li>Sudoku</li>
+<li>Treasure Hunt</li>
+   </ul>              
+        </div>
+    </div>
+</div>											
+		
+<div class="col-sm-6 g-mb-40">
+	<div class="card card-outline-info rounded-0">
+          <h3 class="card-header h5 text-white bg-info g-brd-transparent rounded-0"><i class="fa fa-tasks g-font-size-default g-mr-5"></i>Literary Events</h3>
+  
+        <div class="card-block">
+	<ul class="list-unstyled g-mb-30 g-mb-0--md">		
+
+
+<li>Creative Writing</li>
+<li>Debate</li>
+<li>Poetry</li>
+<li>Essay Writing</li> </ul>              
+        </div>
+    </div>
+</div>	
+</div>
+</body>
+</html>

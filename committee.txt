@@ -1,0 +1,92 @@
+<html>
+<head>
+<style>
+body
+{
+background-color:lightgrey;
+}
+table
+{
+ border: 1px solid blue;
+    margin-left:auto; 
+    margin-right:auto;
+}
+h1
+{
+  font-weight:bold;
+text-align:center;
+text-decoration:underline;
+  color:blue; 
+}
+</style>
+</head>
+<h1>COMMITTEES OF NATIONAL UNIVERSITY OF SCHOOLING</h1>
+<body>	
+<table class="tablespace" border="1" width="200">
+<tbody>
+<tr>
+<td><strong>Statutory Committees</strong></td>
+<td><strong>Facilitation Committees</strong></td>
+<td><strong>Event Based Committees</strong></td>
+</tr>
+<tr>
+<td>LMC</td>
+<td>Time Table</td>
+<td>Talentia</td>
+</tr>
+<tr>
+<td>Admission</td>
+<td>Discipline</td>
+<td>Annual Day</td>
+</tr>
+<tr>
+<td>Steering</td>
+<td>Attendance</td>
+<td>Best Student Award</td>
+</tr>
+<tr>
+<td>Examinations</td>
+<td>Infrastructure</td>
+<td>Prize Distribution</td>
+</tr>
+<tr>
+<td>Unfair Means</td>
+<td>Website</td>
+<td>College Magazine</td>
+</tr>
+<tr>
+<td>Grievance Redressal</td>
+<td>Magazine</td>
+<td>Internal Complaints Committee</td>
+</tr>
+<tr>
+<td>IQAC</td>
+<td>ACP</td>
+<td>Out-reach Cell</td>
+</tr>
+<tr>
+<td>Library</td>
+<td>Research</td>
+<td>Attendance Committee</td>
+</tr>
+<tr>
+<td>WDC</td>
+<td>Forum Activities</td>
+<td>Life Long Learning</td>
+</tr>
+<tr>
+<td>Students Council</td>
+<td>Go Green Committee</td>
+</tr>
+<tr>
+<td>Utilisation of U.G.C. Grant</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Anti Ragging</td>
+<td>NSS</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

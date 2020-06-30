@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+body
+{
+background-color:lightgrey;
+}
+h1
+{
+  font-weight:bold;
+  font-family:"Comic Sans MS";
+  text-decoration:underline;
+}
+.divi{
+  background-color: pink;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 80px;
+  padding-left: 10px;
+}
+nav
+{
+   font-size:20px;
+   font-family:"Times New Roman";
+   color:blue;
+}
+.left
+{
+  background-color:lightpink;
+  font-size:20px;
+  color:black;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  height: 250px;
+  width: 260px;
+
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img
+ {
+    width:40%;
+    height:70%;
+    margin: auto;
+ }
+.txt
+{
+  background-color:pink;
+  border:white;
+  height:240px;
+  width:260px;
+
+}
+.container .box 
+{ 
+      width:540px; 
+      margin:50px; 
+      display:table; 
+} 
+.container .box .box-row 
+{ 
+     display:table-row; 
+} 
+            .container .box .box-cell { 
+                display:table-cell; 
+                width:50%; 
+                padding:10px; 
+            } 
+            .container .box .box-cell.box1 { 
+                background:green; 
+                color:white; 
+                text-align:justify; 
+             } 
+            .container .box .box-cell.box2 { 
+                background:lightgreen; 
+                text-align:justify 
+            } 
+
+</style>
+</head>
+
+<body>
+<div class="divi"> 
+<img src="logo.jpg" height="130px" width="300px" align="left"> <h1> NATIONAL UNIVERSITY OF SCHOOLING</h1>
+</div>
+<br> 
+ <nav class="navbar navbar-expand-md navbar-dark bg-success" >
+
+        <class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        </button>
+        <div id="navbarCollapse" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">HOME</a>
+                </li>
+                <li class="nav-item">
+                    <a href="stu.html" class="nav-link">STUDENT</a>
+                </li>
+              
+                <li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">ALUMNI</a>
+                    <div class="dropdown-menu">
+                        <a href="staff.html" class="dropdown-item">STAFF</a><br>
+                        <a href="admin.html" class="dropdown-item">ADMINISTRATION</a>
+                    </div>
+                </li>
+                 <li class="nav-item">
+                    <a href="gallery.html" class="nav-link">GALLERY</a>
+                </li>
+                <li>
+                       <a href="contact.html" class="nav-link">CONTACT US</a>
+                 </li>
+            </ul>
+          </div>
+    <form class="form-inline">
+    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+ </form>
+</nav>
+
+
+<div class="container">
+  <br>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <img src="carousel1.jpg" width="500" height="600">
+       </div>
+
+        <div class="item">
+        <img src="carousel3.jpg" width="500" height="600">
+      </div>
+
+      <div class="item">
+        <img src="carousel4.jpg" width="500" height="600">
+      </div>
+  
+    </div>
+
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+<br>
+<img src="img.jpg" width="420px" height="250px" style="float:right; border-radius: 25px; margin-left:10px;margin-bottom:10px;">
+<img src="img2.jpg" width="420px" height="250px" style="float:right; border-radius: 25px;"margin-bottom:10px;>
+
+<div  class="left">
+<a href="syllabus.html" >+ SYLLABUS</a><br><br>
+<a href="admission.html">+ ADMISSIONS</a><br><br>
+<a href="committee.html">+ COMMITTEES</a><br><br>
+<a href="event.html">+ EVENTS</a>
+</div>
+
+<br>
+<img src="img3.jpg" width="420px" height="240px" style="float:right; border-radius: 25px; margin-left:10px;margin-bottom:10px;">
+<img src="img4.jpg" width="420px" height="240px" style="float:right; border-radius: 25px;margin-bottom:10px;">
+
+<div class="txt" align="center">
+   <form action="/action_page.php">
+   <textarea align="center" class="txt" placeholder="Suggestion Box" cols="25" rows="10">New Suggestions and ideas are welcome,submit your ideas or suggestions regarding amendments or patents.The purpose of this idea box is to generate constructive ideas,suggestions and brainstorms from you.Thoughtful ideas are valued,respected and encouraged. 
+   </textarea>
+   <button>SUBMIT</button>
+    </form>
+    </div>
+</body>
+</html>
